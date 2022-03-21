@@ -16,3 +16,7 @@ This is [tutorial](https://blog.logrocket.com/user-authentication-firebase-react
 
 After finishing it I am removing all db calls. 
 
+![Logging](Images/LoginWithGoogle.png)
+
+![Logged](Images/Logged.png)
+
