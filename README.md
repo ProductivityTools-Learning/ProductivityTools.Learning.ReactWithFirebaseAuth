@@ -12,17 +12,7 @@
 
 # ProductivityTools.Learning.ReactWithFirebaseAuth
 Simplest react with firebase authentication integration 
-[tutorial](https://blog.logrocket.com/user-authentication-firebase-react-apps/) which I am using
+This is [tutorial](https://blog.logrocket.com/user-authentication-firebase-react-apps/) which I am using.
 
+After finishing it I am removing all db calls. 
 
-offered
-```
-npx create-react-app appname
-npm install firebase react-router-dom react-firebase-hooks
-```
-
-done
-```
-npx create-react-app appname
-npm install firebase react-router-dom react-firebase-hooks
-```
