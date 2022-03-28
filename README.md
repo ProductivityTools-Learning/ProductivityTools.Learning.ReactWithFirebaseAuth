@@ -1,7 +1,7 @@
 <!--Category:react,firebase--> 
  <p align="right">
-    <a href="http://productivitytools.tech/productivitytools-createsqlserverdatabase/"><img src="Images/Header/ProductivityTools_green_40px_2.png" /><a> 
-    <a href="https://www.github.com/pwujczyk/ProductivityTools.CreateSQLServerDatabase"><img src="Images/Header/Github_border_40px.png" /></a>
+    <a href="http://productivitytools.tech/learning-reactwithfirebaseauth/"><img src="Images/Header/ProductivityTools_green_40px_2.png" /><a> 
+    <a href="https://github.com/pwujczyk/ProductivityTools.Learning.ReactWithFirebaseAuth"><img src="Images/Header/Github_border_40px.png" /></a>
 </p>
 <p align="center">
     <a href="http://http://productivitytools.tech/">
@@ -12,6 +12,7 @@
 
 # Learning ReactWithFirebaseAuth
 Simplest react with firebase authentication integration 
+<!--more-->
 This is [tutorial](https://blog.logrocket.com/user-authentication-firebase-react-apps/) which I am using.
 
 After finishing it I am removing all db calls. It means that this is the simplest possible example.
