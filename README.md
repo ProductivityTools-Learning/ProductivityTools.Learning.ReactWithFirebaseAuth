@@ -10,11 +10,11 @@
 </p>
 
 
-# ProductivityTools.Learning.ReactWithFirebaseAuth
+# Learning ReactWithFirebaseAuth
 Simplest react with firebase authentication integration 
 This is [tutorial](https://blog.logrocket.com/user-authentication-firebase-react-apps/) which I am using.
 
-After finishing it I am removing all db calls. 
+After finishing it I am removing all db calls. It means that this is the simplest possible example.
 
 ![Logging](Images/LoginWithGoogle.png)
 
